@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XfwmyTseH6p0yWextiY5JpKK80imn5iKCrkbR8Dw6lM=",
+  "Source": "blog-api-aspnet-6",
+  "BasePath": "_content/blog-api-aspnet-6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
